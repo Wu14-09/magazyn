@@ -1,1 +1,2 @@
 # magazyn
+cos jeszcze powiesz?
